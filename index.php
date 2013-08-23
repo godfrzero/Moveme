@@ -7,9 +7,9 @@
 			margin: 0;
 		}
 	</style>
-	<script type="text/javascript" src="three.min.js"></script>
+	<script type="text/javascript" src="assets/js/three.min.js"></script>
 </head>
 <body>
-	<script type="text/javascript" src="h2o.js"></script>
+	<script type="text/javascript" src="assets/js/h2o.js"></script>
 </body>
 </html>
